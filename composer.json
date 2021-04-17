@@ -1,5 +1,5 @@
 {
-    "name": "your-name-here/acl-caching",
+    "name": "leleko/acl-caching",
     "description": "AclCaching plugin for CakePHP",
     "type": "cakephp-plugin",
     "license": "MIT",
